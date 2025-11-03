@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+    Tema Base para la aplicación.
+    ¡¡¡LA CLAVE ES '.NoActionBar'!!!
+    Esto elimina la barra de acción por defecto, permitiendo que nuestro Toolbar personalizado en el XML reine.
+    -->
+    <style name="Theme.Desafio3DSM" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--
+        Puedes personalizar tus colores aquí para que el Toolbar se vea bien.
+        Si no los defines, usará los colores por defecto del sistema.
+        -->
+        <!--
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        -->
+    </style>
+</resources>

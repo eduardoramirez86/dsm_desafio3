@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AprendeApp</string>
+    <string name="welcome_message">¡Bienvenido a AprendeApp!</string>
+    <string name="add_recurso">Agregar Recurso</string>
+    <string name="edit_recurso">Editar Recurso</string>
+    <string name="titulo">Título</string>
+    <string name="descripcion">Descripción</string>
+    <string name="tipo">Tipo (ej: Libro, Video)</string>
+    <string name="enlace">Enlace (URL)</string>
+    <string name="imagen">URL de Imagen</string>
+    <string name="guardar">Guardar</string>
+    <string name="cargando_recursos">Cargando recursos...</string>
+    <string name="error_cargar_recursos">Error al cargar recursos</string>
+    <string name="recurso_agregado">Recurso agregado</string>
+    <string name="recurso_actualizado">Recurso actualizado</string>
+    <string name="recurso_eliminado">Recurso eliminado</string>
+    <string name="error_operacion">Error en la operación</string>
+    <string name="confirmar_eliminacion_titulo">Confirmar Eliminación</string>
+    <string name="confirmar_eliminacion_mensaje">¿Estás seguro de que quieres eliminar este recurso?</string>
+    <string name="si">Sí</string>
+    <string name="cancelar">Cancelar</string>
+
+    <!-- Strings añadidas para item_recurso.xml -->
+    <string name="recurso_imagen">Imagen del recurso</string>
+    <string name="abrir_enlace">Abrir enlace</string>
+</resources>
